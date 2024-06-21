@@ -1,0 +1,105 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Berlin",
+      "Paris",
+      "Madrid"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Saturn",
+      "Mars"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "question": "Which is the largest river in the world ?",
+    "options": [
+      "Nile",
+      "Ganga",
+      "Satluj",
+      "Yumuna"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "question": "What is capital of Japan?",
+    "options": [
+      "Beijing",
+      "seoul",
+      "tokyo",
+      "BangKok"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "question": " Which element has the chemical symbol 'O'?",
+    "options": [
+      "Oxygen",
+      "Osmium",
+      "gold",
+      "Iron"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "question": " Who wrote the play 'Romeo and Juliet'?",
+    "options": [
+      "William Shakespeare",
+      "charles Dickens",
+      "Mark Twain",
+      "Jane Austen"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Quartz"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "question": " Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Saturn",
+      "Mars",
+      "Jupiter"
+    ],
+    "answerIndex": 2
+
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+
+    ],
+    "answerIndex": 3
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "Abraham Lincoln",
+      "George Washington",
+      "Thomas Jefferson",
+      "John Adams"
+    ],
+    "answerIndex": 1
+
+  }
+]
